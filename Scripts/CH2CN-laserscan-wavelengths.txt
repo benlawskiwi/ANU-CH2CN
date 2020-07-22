@@ -1,0 +1,3 @@
+CH2CN-laserscan_25_06_20n3.dat 805.223-799.691nm
+CH2CN-laserscan_25_06_20n4.dat 804.917-806.841nm
+CH2CN-laserscan_26_06_20n1.dat 796.911-800.010nm

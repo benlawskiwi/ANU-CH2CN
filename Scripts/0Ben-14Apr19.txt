@@ -1,0 +1,29 @@
+All of the data is on bal121@wang:~/home/VMI/
+
+CH2CN
+
+All measurements Vr = -600 V, wavelength = calibrated
+
+689.71 nm     9A1
+687.15 nm     9A2
+685.04 nm     9A3
+694.35 nm     9A4
+691.66 nm     10A1
+696.00 nm     10A2
+691.66 nm     10A3
+692.66 nm     10A4
+692.16 nm     10A5
+691.90 nm     10A6
+691.42 nm     10A7
+691.56 nm     12A1
+691.76 nm     12A2
+691.71 nm     12A3
+691.61 nm     12A4
+691.65 nm     12A5
+691.64 nm     12A6
+691.67 nm     12A7
+695.99 nm     12A8
+691.68 nm     12A9
+695.97 nm     12A10
+696.01 nm     12A11
+696.03 nm     12A12
